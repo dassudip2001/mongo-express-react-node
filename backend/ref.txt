@@ -1,0 +1,9 @@
+// mongodb atlis
+// const uri =
+//   "mongodb+srv://dassudip:Sudip@78*@cluster0.czdiv.mongodb.net/?retryWrites=true&w=majority";
+
+// mongoose.connect(uri, {
+//
+//   useNewUrlParser: true,
+//   useCreateIndex: true,
+// });
